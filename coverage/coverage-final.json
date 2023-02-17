@@ -1,0 +1,31 @@
+{
+	"/Users/phatthach/Documents/Personal/react-from-scratch/src/App.jsx": {
+		"path": "/Users/phatthach/Documents/Personal/react-from-scratch/src/App.jsx",
+		"statementMap": {
+			"0": {
+				"start": { "line": 4, "column": 1 },
+				"end": { "line": 4, "column": 49 }
+			}
+		},
+		"fnMap": {
+			"0": {
+				"name": "App",
+				"decl": {
+					"start": { "line": 3, "column": 9 },
+					"end": { "line": 3, "column": 12 }
+				},
+				"loc": {
+					"start": { "line": 3, "column": 15 },
+					"end": { "line": 5, "column": 1 }
+				},
+				"line": 3
+			}
+		},
+		"branchMap": {},
+		"s": { "0": 2 },
+		"f": { "0": 2 },
+		"b": {},
+		"_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+		"hash": "8950999a4c9f08513a1722e05a21ab942f41d5f1"
+	}
+}

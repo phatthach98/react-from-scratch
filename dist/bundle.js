@@ -8,9 +8,7 @@
  */
 /** *** */ (() => {
 	// webpackBootstrap
-	/** *** */ 
-
-
+	/** *** */
 
 	/** *** */ const __webpack_modules__ = {
 		/***/ './index.js':
